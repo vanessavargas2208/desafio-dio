@@ -1,0 +1,24 @@
+Comandos Windows e Unix:
+
+CD - acessa os diretórios;
+DIR/LS - lista as pastas que estão dentro do diretório;
+MKDIR - cria pasta dentro no diretório;
+DEL-RMDIR/RM -RF - remove toda a pasta do diretório.
+
+------------------------------------------------------------------
+
+SHA1 - algoritmo de encriptação (Secure Hash Algorithm - Algoritmo de Hash Seguro);
+-> Identificador de 40 digitos;
+
+Os 3 objetos do Git:
+- Blobs
+- Trees
+- Commits
+
+---------------------------------------------------------------------
+
+Tracked - arquivos que sabemos que existem/estão ali;
+Untracked - arquivos que não sabemos que existem;
+Unmodified - arquivos não modificados;
+Modified - arquivos modificados;
+Staged - aguarda os arquivos chegarem.
